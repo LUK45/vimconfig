@@ -275,4 +275,4 @@ nmap <C-a> <C-o>
 nmap <C-d> <Plug>(coc-definition)
 
 " refactor go code
-nmap <leader>r <Plug>(coc-rename)
+nmap <leader>r <Plug>(coc-refactor)
